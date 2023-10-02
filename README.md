@@ -1,0 +1,3 @@
+# complete-blood-count
+
+To implement a program for testing the general blood test. In the program it is necessary to identify the user, blood parameters, for further processing and determining the preliminary diagnosis of the user. It is also necessary to provide storage of data about the user, blood parameters and the results of the preliminary diagnosis. The program should have a friendly interface.
